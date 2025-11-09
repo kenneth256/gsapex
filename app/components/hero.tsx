@@ -45,7 +45,7 @@ const Hero = () => {
 
   return (
     <div className="w-full flex justify-center min-h-screen">
-      <section className="flex w-full max-w-6xl flex-col lg:flex-row h-fit mt-20 items-center justify-center px-8 gap-12 lg:gap-8">
+      <section className="flex w-full max-w-6xl flex-col lg:flex-row h-fit my-auto items-center justify-center px-8 gap-12 lg:gap-8">
         {/* Text Content */}
         <div className="gap-4 flex flex-col justify-center flex-1 text-center lg:text-left">
           <h1 className="header text-4xl md:text-5xl lg:text-6xl font-bold uppercase">
