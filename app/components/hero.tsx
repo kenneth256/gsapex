@@ -74,7 +74,7 @@ const Hero = () => {
               width={500}
               height={500}
               alt="cocktail glass"
-              src="/glass.png"
+              src="/glass.webp"
               priority
             />
             <div className="shadow w-[40%] max-w-[200px] h-3 md:h-4 bg-[radial-gradient(ellipse_at_center,var(--tw-gradient-stops))] from-black/60 via-black/30 to-transparent rounded-full absolute bottom-8 md:bottom-12 blur-sm"></div>
