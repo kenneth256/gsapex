@@ -4,8 +4,6 @@ import { ScrollTrigger } from "gsap/all";
 import Image from "next/image";
 import React, { useEffect, useRef } from "react";
 
-
-
 const Free = () => {
   const sectionRef = useRef<HTMLElement>(null);
 
